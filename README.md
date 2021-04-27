@@ -1,3 +1,3 @@
-# Proyecto Base
+# Tecnicas de combate
 
-Reemplazar por alguna descripción del proyecto.
+Este es el repo del ejercicio opcional de Augusto Lecaldare
